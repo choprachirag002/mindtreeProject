@@ -8,6 +8,7 @@ public class Menu {
 		 Verticle[] arr=new Verticle[100];
 		 Project[] arrOne=new Project[100];
 		 System.out.println("Enter the no of verticles you want");
+		 System.out.println("Enter the no of verticles you want");
 		 int n=ScannerValidate.getValidInt();
 		 do {
 			 System.out.println("\n");
